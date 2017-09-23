@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/hanhongbo/C++/Leetcode/JumpGameII/Solution.h
+vector
+-
+algorithm
+-
+
+E:/hanhongbo/C++/Leetcode/JumpGameII/main.cpp
+iostream
+-
+vector
+-
+Solution.h
+E:/hanhongbo/C++/Leetcode/JumpGameII/Solution.h
+
