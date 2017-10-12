@@ -1,0 +1,3 @@
+D:\CLion2017.2.2\bin\cmake\bin\cmake.exe -E remove -f CMakeFiles\ClimbingStairs.dir/objects.a
+D:\mingw-w64\i686-7.1.0-posix-dwarf-rt_v5-rev0\mingw32\bin\ar.exe cr CMakeFiles\ClimbingStairs.dir/objects.a @CMakeFiles\ClimbingStairs.dir\objects1.rsp
+D:\mingw-w64\i686-7.1.0-posix-dwarf-rt_v5-rev0\mingw32\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\ClimbingStairs.dir/objects.a -Wl,--no-whole-archive  -o ClimbingStairs.exe -Wl,--out-implib,libClimbingStairs.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ClimbingStairs.dir\linklibs.rsp
