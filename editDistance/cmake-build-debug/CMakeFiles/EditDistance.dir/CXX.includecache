@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/hanhongbo/C++/Leetcode/EditDistance/EditDistance.h
+vector
+-
+string
+-
+iostream
+-
+algorithm
+-
+
+E:/hanhongbo/C++/Leetcode/EditDistance/main.cpp
+iostream
+-
+EditDistance.h
+E:/hanhongbo/C++/Leetcode/EditDistance/EditDistance.h
+
