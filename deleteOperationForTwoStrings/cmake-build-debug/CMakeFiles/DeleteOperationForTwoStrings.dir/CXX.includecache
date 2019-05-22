@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/hanhongbo/C++/Leetcode/DeleteOperationForTwoStrings/DeleteOperation.h
+iostream
+-
+vector
+-
+string
+-
+algorithm
+-
+
+E:/hanhongbo/C++/Leetcode/DeleteOperationForTwoStrings/main.cpp
+iostream
+-
+string
+-
+DeleteOperation.h
+E:/hanhongbo/C++/Leetcode/DeleteOperationForTwoStrings/DeleteOperation.h
+

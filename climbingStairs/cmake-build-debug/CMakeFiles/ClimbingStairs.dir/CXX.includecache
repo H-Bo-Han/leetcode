@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/hanhongbo/C++/Leetcode/ClimbingStairs/Solution.h
+vector
+-
+
+E:/hanhongbo/C++/Leetcode/ClimbingStairs/main.cpp
+iostream
+-
+Solution.h
+E:/hanhongbo/C++/Leetcode/ClimbingStairs/Solution.h
+

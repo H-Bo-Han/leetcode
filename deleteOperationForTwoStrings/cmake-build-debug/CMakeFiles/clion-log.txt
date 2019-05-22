@@ -1,0 +1,4 @@
+D:\CLion2017.2.2\bin\cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" E:\hanhongbo\C++\Leetcode\DeleteOperationForTwoStrings
+-- Configuring done
+-- Generating done
+-- Build files have been written to: E:/hanhongbo/C++/Leetcode/DeleteOperationForTwoStrings/cmake-build-debug

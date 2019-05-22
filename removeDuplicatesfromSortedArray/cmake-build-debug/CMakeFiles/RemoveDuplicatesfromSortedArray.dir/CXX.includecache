@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/hanhongbo/GitHub/leetcode/RemoveDuplicatesfromSortedArray/library.cpp
+library.h
+E:/hanhongbo/GitHub/leetcode/RemoveDuplicatesfromSortedArray/library.h
+iostream
+-
+vector
+-
+
+E:/hanhongbo/GitHub/leetcode/RemoveDuplicatesfromSortedArray/library.h
+iostream
+-
+vector
+-
+
